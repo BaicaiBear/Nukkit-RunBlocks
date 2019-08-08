@@ -1,0 +1,5 @@
+name: RunBlocks
+main: top.bearcabbage.RunBlocks.RunBlocks
+version: "0.1.0"
+api: 1.0.8
+description: A Nukkit plugin to allow player playing more happily.
